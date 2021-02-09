@@ -1,0 +1,22 @@
+body {
+  background-color: #EDF3B3;
+  color: #616B09;
+}
+
+h1{
+  font-size: 50px;
+  text-align: center;
+}
+
+img {
+  border: 5px solid;
+  border-color: #616B09;
+  max-width: 100%;
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+
+#recipe-link {
+  color: #939E31;
+}
